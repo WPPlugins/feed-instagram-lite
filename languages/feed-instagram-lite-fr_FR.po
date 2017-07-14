@@ -1,0 +1,877 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Feed Instagram Lite\n"
+"POT-Creation-Date: 2016-08-31 18:54+0700\n"
+"PO-Revision-Date: 2016-08-31 18:56+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: feed-instagram-lite.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: feed-instagram-lite.php:84 inc/admin/gifeed-custom-post.php:88
+#: inc/admin/gifeed-custom-post.php:89 inc/admin/gifeed-metaboxes.php:712
+msgid "Settings"
+msgstr "Paramètres"
+
+#: inc/admin/gifeed-custom-post.php:14
+msgctxt "post type general name"
+msgid "Instagram Feeds"
+msgstr "Instagram Feeds"
+
+#: inc/admin/gifeed-custom-post.php:15
+msgctxt "post type singular name"
+msgid "Instagram Feed"
+msgstr "Instagram Feed"
+
+#: inc/admin/gifeed-custom-post.php:16
+msgid "Add New Feed"
+msgstr "Ajouter un Flux"
+
+#: inc/admin/gifeed-custom-post.php:17
+msgid "Feeds"
+msgstr "Flux"
+
+#: inc/admin/gifeed-custom-post.php:18
+msgid "Edit Feed"
+msgstr "Modifier le flux"
+
+#: inc/admin/gifeed-custom-post.php:19
+msgid "New Feed"
+msgstr "Nouveau Flux"
+
+#: inc/admin/gifeed-custom-post.php:20
+msgid "View Feed"
+msgstr "Voir le Flux"
+
+#: inc/admin/gifeed-custom-post.php:21
+msgid "Search Feeds"
+msgstr "Rechercher Flux"
+
+#: inc/admin/gifeed-custom-post.php:22
+msgid "No Feed Found"
+msgstr "No Flux Trouvé"
+
+#: inc/admin/gifeed-custom-post.php:23
+msgid "No Feed Found In Trash"
+msgstr "Aucune Flux dans la Corbeille"
+
+#: inc/admin/gifeed-custom-post.php:24
+msgid "Parent Feed"
+msgstr "Parent Feed"
+
+#: inc/admin/gifeed-custom-post.php:25 inc/admin/gifeed-custom-post.php:33
+msgid "Instagram Lite"
+msgstr "Instagram Lite"
+
+#: inc/admin/gifeed-custom-post.php:59
+msgid "All Feeds"
+msgstr "Tous les flux"
+
+#: inc/admin/gifeed-custom-post.php:70
+msgid "Feed Name"
+msgstr "Nom du Flux"
+
+#: inc/admin/gifeed-custom-post.php:71
+msgid "Feed(s) Info"
+msgstr "Flux (s) Infos"
+
+#: inc/admin/gifeed-custom-post.php:72
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/admin/gifeed-custom-post.php:73
+msgid "Actions"
+msgstr "Actions"
+
+#: inc/admin/gifeed-custom-post.php:97 inc/admin/gifeed-custom-post.php:98
+msgid "Free Plugins"
+msgstr "Plugins Gratuits"
+
+#: inc/admin/gifeed-custom-post.php:106 inc/admin/gifeed-custom-post.php:107
+msgid "Premium Plugins"
+msgstr "Extensions Premium"
+
+#: inc/admin/gifeed-custom-post.php:115 inc/admin/gifeed-custom-post.php:116
+msgid "Upgrade to PRO"
+msgstr "Mise à niveau vers PRO"
+
+#: inc/admin/gifeed-custom-post.php:124 inc/admin/gifeed-custom-post.php:125
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/admin/gifeed-custom-post.php:257
+msgid "Shortcode copied to clipboard"
+msgstr "Shortcode a été copié dans le presse-papiers"
+
+#: inc/admin/gifeed-metaboxes.php:8
+msgid "Preview"
+msgstr "Aperçu"
+
+#: inc/admin/gifeed-metaboxes.php:69
+msgid "Validate"
+msgstr "Valider"
+
+#: inc/admin/gifeed-metaboxes.php:101
+#, php-format
+msgid ""
+"You can display photos or videos from other Instagram accounts, just use "
+"separate multiple username using commas. You can also combine usernames and "
+"hashtags on field above and also separated by commas. %s to always click the "
+"validation button after you insert new or make a change Instagram Username "
+"or Hashtag."
+msgstr ""
+"Vous pouvez afficher des photos ou des vidéos provenant d'autres comptes "
+"Instagram, il suffit d'utiliser plusieurs nom d'utilisateur en utilisant des "
+"virgules séparées. Vous pouvez également combiner les noms d'utilisateur et "
+"hashtags sur champ ci-dessus et également séparés par des virgules. %s de "
+"toujours cliquer sur le bouton de validation après l'insertion d'une "
+"nouvelle ou faire un changement Instagram Nom d'utilisateur ou Hashtag."
+
+#: inc/admin/gifeed-metaboxes.php:682
+msgid "Feed Builder"
+msgstr "Générateur de Flux"
+
+#: inc/admin/gifeed-metaboxes.php:723
+msgid "Short, Order &amp; Columns"
+msgstr "Short, Order &amp; Colonnes"
+
+#: inc/admin/gifeed-metaboxes.php:732
+msgid "Sort By"
+msgstr "Trier Selon"
+
+#: inc/admin/gifeed-metaboxes.php:733
+msgid "Select how to short images / media."
+msgstr "Sélectionnez le mode d'images / médias courte."
+
+#: inc/admin/gifeed-metaboxes.php:752
+msgid "Number of Columns"
+msgstr "Nombre de Colonnes"
+
+#: inc/admin/gifeed-metaboxes.php:753
+msgid "Feed columns count you can set. Default : 3"
+msgstr "Nombre de colonnes que vous pouvez définir. Par défaut : 3"
+
+#: inc/admin/gifeed-metaboxes.php:766
+msgid "Images and Videos"
+msgstr "Images et Vidéos"
+
+#: inc/admin/gifeed-metaboxes.php:774
+msgid "Number of Images / Video"
+msgstr "Nombre d'images / vidéo"
+
+#: inc/admin/gifeed-metaboxes.php:775
+msgid ""
+"Number of photos or videos to show for the first load. Another images or "
+"videos will be displayed by clicking LOAD MORE button."
+msgstr ""
+"Nombre de photos ou des vidéos pour montrer pour la première charge. Une "
+"autre des images ou des vidéos seront affichées en cliquant sur LOAD MORE "
+"bouton."
+
+#: inc/admin/gifeed-metaboxes.php:785
+msgid "Images / Videos Padding"
+msgstr "Images / Vidéos Rembourrage"
+
+#: inc/admin/gifeed-metaboxes.php:786
+msgid ""
+"You can easily set the padding around images or videos here. Default : 10px"
+msgstr ""
+"Vous pouvez facilement régler le rembourrage autour des images ou des "
+"vidéos. Par défaut: 10px"
+
+#: inc/admin/gifeed-metaboxes.php:805
+msgid "Image Resolution"
+msgstr "Résolution de l'image"
+
+#: inc/admin/gifeed-metaboxes.php:806
+msgid "Size of the images to get."
+msgstr "Taille des images."
+
+#: inc/admin/gifeed-metaboxes.php:821
+msgid "Video Resolution"
+msgstr "Résolution de la vidéo"
+
+#: inc/admin/gifeed-metaboxes.php:822
+msgid "Resolution of the video that you can choose."
+msgstr "Résolution de la vidéo que vous pouvez choisir."
+
+#: inc/admin/gifeed-metaboxes.php:836
+msgid "Video Auto Play"
+msgstr "Lecture Auto Vidéo"
+
+#: inc/admin/gifeed-metaboxes.php:837
+msgid ""
+"If enabled, the video will automatically start playing on Lightbox mode."
+msgstr ""
+"Si elle est activée, la vidéo sera automatiquement commencer à jouer en mode "
+"Lightbox."
+
+#: inc/admin/gifeed-metaboxes.php:848
+msgid "Header"
+msgstr "En-têtes"
+
+#: inc/admin/gifeed-metaboxes.php:856
+msgid "Show the Header"
+msgstr "Afficher l'en-tête"
+
+#: inc/admin/gifeed-metaboxes.php:857
+msgid "If enabled, the header will show on each feed(s)."
+msgstr "Si elle est activée, l'en-tête apparaît sur chaque Flux(s)."
+
+#: inc/admin/gifeed-metaboxes.php:865
+msgid "Header Title"
+msgstr "Titre d'en-tête"
+
+#: inc/admin/gifeed-metaboxes.php:866
+msgid ""
+"You can set your header title with username, fullname or hide ( no title )."
+msgstr ""
+"Vous pouvez définir votre titre d’en-tête avec nom d’utilisateur, fullname "
+"ou masquer (sans titre)."
+
+#: inc/admin/gifeed-metaboxes.php:878
+msgid "Show User Bio"
+msgstr "Afficher Utilisateur Bio"
+
+#: inc/admin/gifeed-metaboxes.php:879
+msgid ""
+"If enable, another user or your biography will be displayed in the header."
+msgstr ""
+"Si l'activer, un autre utilisateur ou votre biographie seront affichées dans "
+"l'en-tête."
+
+#: inc/admin/gifeed-metaboxes.php:887
+msgid "Show Follower"
+msgstr "Afficher Follower"
+
+#: inc/admin/gifeed-metaboxes.php:888
+msgid ""
+"If enabled, another user or your follower(s) will be displayed in the header."
+msgstr ""
+"Si elle est activée, un autre utilisateur ou votre suiveur (s) seront "
+"affichées dans l'en-tête."
+
+#: inc/admin/gifeed-metaboxes.php:896
+msgid "Show Total Post"
+msgstr "Si l'activer, un autre Postes seront affichées dans l'en-tête."
+
+#: inc/admin/gifeed-metaboxes.php:897
+msgid ""
+"If enable, another user or your post(s) will be displayed in the header."
+msgstr ""
+"Si l'activer, un autre utilisateur ou votre message (s) seront affichées "
+"dans l'en-tête."
+
+#: inc/admin/gifeed-metaboxes.php:908 inc/admin/vc/vc-shortcode.php:24
+msgid "Content"
+msgstr "Contenu"
+
+#: inc/admin/gifeed-metaboxes.php:916
+msgid "Show Title"
+msgstr "Montrez Titre"
+
+#: inc/admin/gifeed-metaboxes.php:917
+msgid "If enabled, the title will appear on each feed(s)."
+msgstr "Si elle est activée, le titre apparaîtra sur chaque Flux(s)."
+
+#: inc/admin/gifeed-metaboxes.php:925
+msgid "Show Share Button"
+msgstr "Afficher le bouton Partager"
+
+#: inc/admin/gifeed-metaboxes.php:926
+msgid "If enabled, the Share Button will appear on each feed(s)."
+msgstr "Si elle est activée, le bouton Share apparaîtra sur chaque Flux(s)."
+
+#: inc/admin/gifeed-metaboxes.php:934
+msgid "Show Meta"
+msgstr "Afficher Méta"
+
+#: inc/admin/gifeed-metaboxes.php:935
+msgid ""
+"If enabled, the total Likes, Comments and Upload Dates will appear on each "
+"feed(s)."
+msgstr ""
+"Si elle est activée, le total Appréciations, Commentaires Upload Dates "
+"apparaîtront sur chaque Flux (s)."
+
+#: inc/admin/gifeed-metaboxes.php:946
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/admin/gifeed-metaboxes.php:954
+msgid "Show the Footer"
+msgstr "Afficher le pied de page"
+
+#: inc/admin/gifeed-metaboxes.php:955
+msgid "If enabled, the footer will show on each feed(s)."
+msgstr "Si elle est activée, le pied de page apparaît sur chaque Flux(s)."
+
+#: inc/admin/gifeed-metaboxes.php:966
+msgid "Feeds Styles"
+msgstr "Flux Styles"
+
+#: inc/admin/gifeed-metaboxes.php:975
+msgid "Use Shadow?"
+msgstr "Appliquer des ombres?"
+
+#: inc/admin/gifeed-metaboxes.php:976
+msgid "If enabled, the shadow will show around the Feed."
+msgstr "Si elle est activée, l'ombre se montrer autour de la Flux."
+
+#: inc/admin/gifeed-metaboxes.php:984
+msgid "Content Background Color"
+msgstr "Couleur Contenu"
+
+#: inc/admin/gifeed-metaboxes.php:985
+msgid "Set the background color for your feed content. Default: #f5f5f5"
+msgstr ""
+"Régler la couleur de fond pour le contenu de votre. Valeur par défaut: # "
+"f5f5f5"
+
+#: inc/admin/gifeed-metaboxes.php:993
+msgid "Footer Background Color"
+msgstr "Couleur d'arrière-plan du footer"
+
+#: inc/admin/gifeed-metaboxes.php:994
+msgid "Set the background color for your feed footer. Default: #FCFCFC"
+msgstr ""
+"Régler la couleur de fond pour votre de page d'alimentation. Par défaut: "
+"#FCFCFC"
+
+#: inc/admin/gifeed-metaboxes.php:1004
+msgid "Typography"
+msgstr "Typographie"
+
+#: inc/admin/gifeed-metaboxes.php:1012
+msgid "Header Username / Fullname Font Style"
+msgstr "Header Nom d'utilisateur / Full name Style de police"
+
+#: inc/admin/gifeed-metaboxes.php:1013
+msgid "Set font style for username in header area."
+msgstr ""
+"Définir le style de police pour nom d'utilisateur dans la zone d'en-tête."
+
+#: inc/admin/gifeed-metaboxes.php:1021
+msgid "Header User Bio Font Style"
+msgstr "En-tête User style De police"
+
+#: inc/admin/gifeed-metaboxes.php:1022
+msgid "Set font style for user Bio in header area."
+msgstr ""
+"Définir le style de police pour l'utilisateur Bio dans la zone d'en-tête."
+
+#: inc/admin/gifeed-metaboxes.php:1030
+msgid "Header User Meta Font Style"
+msgstr "Header utilisateur style Meta police"
+
+#: inc/admin/gifeed-metaboxes.php:1031
+msgid ""
+"Set font style for user info about followers and Posts count in header area."
+msgstr ""
+"Définir le style de police pour l'utilisateur infos sur adeptes et les post "
+"comptent dans la zone d'en-tête."
+
+#: inc/admin/gifeed-metaboxes.php:1040
+msgid "Content Title Font Style"
+msgstr "Contenu Style du titre de la police"
+
+#: inc/admin/gifeed-metaboxes.php:1041
+msgid "Set font style for feed title in content area."
+msgstr ""
+"Définir le style de police pour le titre d'alimentation dans la zone de "
+"contenu."
+
+#: inc/admin/gifeed-metaboxes.php:1049
+msgid "User Meta Font Style"
+msgstr "Style de la police des méta données"
+
+#: inc/admin/gifeed-metaboxes.php:1050
+msgid ""
+"Set font style for feed user meta in content area ( Likes, Comments and "
+"Date )."
+msgstr ""
+"Définir le style de police pour la méta utilisateur dans la zone de contenu "
+"(Likes, Commentaires et date)."
+
+#: inc/admin/gifeed-metaboxes.php:1058
+msgid "Truncate Feed Title"
+msgstr "Tronquer Titre de Flux"
+
+#: inc/admin/gifeed-metaboxes.php:1059
+msgid ""
+"Truncate a string if it is longer than the specified number of characters. "
+"Truncated strings will end with a translatable ellipsis sequence (…) or "
+"specified characters."
+msgstr ""
+"Tronquer une chaîne si elle est plus longue que le nombre de caractères "
+"spécifié. chaînes tronquées se terminera avec une séquence traduisible de "
+"sélection (...) ou les caractères spécifiés."
+
+#: inc/admin/gifeed-metaboxes.php:1070
+msgid "Lightbox Styles"
+msgstr "Lightbox Styles"
+
+#: inc/admin/gifeed-metaboxes.php:1078
+msgid "Lightbox Overlay Color"
+msgstr "Lightbox Overlay couleur"
+
+#: inc/admin/gifeed-metaboxes.php:1079
+msgid "Set the text color for Lightbox Overlay. Default: #3b3b3b"
+msgstr ""
+"Régler la couleur du texte pour Lightbox Overlay. Valeur par défaut: # 3b3b3b"
+
+#: inc/admin/gifeed-metaboxes.php:1087
+msgid "Lightbox Overlay Opacity"
+msgstr "Lightbox Overlay Opacity"
+
+#: inc/admin/gifeed-metaboxes.php:1088
+msgid "Set the opacity for the overlay. Default : 90%"
+msgstr "Régler l'opacité de la superposition. Valeur par défaut: 90%"
+
+#: inc/admin/gifeed-metaboxes.php:1101
+msgid " Lightbox Overlay Pattern"
+msgstr "Motif Lightbox Overlay"
+
+#: inc/admin/gifeed-metaboxes.php:1102
+msgid "Set your lightbox overlay pattern."
+msgstr "Définissez votre modèle lightbox overlay."
+
+#: inc/admin/gifeed-metaboxes.php:1113
+msgid "Comments"
+msgstr "Commentaires"
+
+#: inc/admin/gifeed-metaboxes.php:1121
+msgid "Show The Comments in Lightbox"
+msgstr "Afficher les commentaires dans la visionneuse"
+
+#: inc/admin/gifeed-metaboxes.php:1122
+msgid "If enabled, all media comments will appear in lightbox mode."
+msgstr ""
+"Si elle est activée, tous les commentaires des médias apparaîtront en mode "
+"lightbox."
+
+#: inc/admin/gifeed-metaboxes.php:1130
+msgid "Allow Comments for Media"
+msgstr "Autoriser les commentaires pour les médias"
+
+#: inc/admin/gifeed-metaboxes.php:1131
+msgid "If enabled, anyone can write down the comment in lightbox mode."
+msgstr ""
+"Si elle est activée, tout le monde peut écrire le commentaire en mode "
+"lightbox."
+
+#: inc/admin/gifeed-metaboxes.php:1139
+msgid "Comment Area Width"
+msgstr "Commentaire Largeur de la zone"
+
+#: inc/admin/gifeed-metaboxes.php:1140
+msgid "Set the width of comment area in lightbox mode. Default : 330px"
+msgstr ""
+"Régler la largeur de zone de commentaires en mode lightbox. Par défaut: 330px"
+
+#: inc/admin/gifeed-metaboxes.php:1156
+msgid "Load More Button"
+msgstr "Bouton voir la suite"
+
+#: inc/admin/gifeed-metaboxes.php:1164
+msgid "Load More Button Background Color"
+msgstr "Couleur de fond du bouton"
+
+#: inc/admin/gifeed-metaboxes.php:1165
+msgid "Set the color for Button. Default: #0199d9"
+msgstr "Définissez la couleur pour le bouton. Valeur par défaut: #0199d9"
+
+#: inc/admin/gifeed-metaboxes.php:1173
+msgid "Load More Button Text Color"
+msgstr "Chargez Plus Bouton Couleur du texte"
+
+#: inc/admin/gifeed-metaboxes.php:1174
+msgid "Set the color for Button Text. Default: #fff"
+msgstr "Définissez la couleur pour le bouton Texte. Par défaut: #fff"
+
+#: inc/admin/gifeed-metaboxes.php:1184
+msgid "Custom Text / Label"
+msgstr "Custom Text / Étiquette"
+
+#: inc/admin/gifeed-metaboxes.php:1192
+msgid "Load More Text on Button"
+msgstr "Chargez plus Texte sur le bouton"
+
+#: inc/admin/gifeed-metaboxes.php:1193
+msgid "Default : Load More"
+msgstr "Par défaut: Charger Plus"
+
+#: inc/admin/gifeed-metaboxes.php:1201
+msgid "If No Media Text on Button"
+msgstr "Si Aucun média Texte sur le bouton"
+
+#: inc/admin/gifeed-metaboxes.php:1202
+msgid "Default : No more media to load..."
+msgstr "Par défaut: Pas plus de médias pour charger ..."
+
+#: inc/admin/gifeed-metaboxes.php:1210
+msgid "Read More Text on Comment"
+msgstr "Lire la suite sur le commentaire Texte"
+
+#: inc/admin/gifeed-metaboxes.php:1211
+msgid "Default : Read more..."
+msgstr "Par défaut: Lire la suite ..."
+
+#: inc/admin/gifeed-metaboxes.php:1219
+msgid "No Comment Text"
+msgstr "Texte du commentaire"
+
+#: inc/admin/gifeed-metaboxes.php:1220
+msgid "Default : No Comment(s)..."
+msgstr "Par défaut: Pas de commentaire (s) ..."
+
+#: inc/admin/gifeed-metaboxes.php:1228
+msgid "Add Comment Text"
+msgstr "Ajouter un commentaire"
+
+#: inc/admin/gifeed-metaboxes.php:1229
+msgid "Default : Add a comment..."
+msgstr "Par défaut: Ajouter un commentaire ..."
+
+#: inc/admin/gifeed-metaboxes.php:1237
+msgid "Link to Instagram in Lightbox mode"
+msgstr "Lien vers Instagram en mode Lightbox"
+
+#: inc/admin/gifeed-metaboxes.php:1238
+msgid "Default : View in Instagram"
+msgstr "Par défaut: Voir dans Instagram"
+
+#: inc/admin/gifeed-metaboxes.php:1250
+msgid "SEO Images"
+msgstr "SEO Images"
+
+#: inc/admin/gifeed-metaboxes.php:1258
+msgid "Image ALT"
+msgstr "ALT de l'image"
+
+#: inc/admin/gifeed-metaboxes.php:1259
+msgid "You can set the length, max-length or disable image alt."
+msgstr ""
+"Vous pouvez définir la longueur, longueur max ou désactiver alt de l’image."
+
+#: inc/admin/gifeed-metaboxes.php:1271
+msgid "Image Title"
+msgstr "Titre de l'image"
+
+#: inc/admin/gifeed-metaboxes.php:1272
+msgid "You can set the length, max-length or disable image title."
+msgstr ""
+"Vous pouvez définir la longueur, longueur max ou désactiver le titre de "
+"l’image."
+
+#: inc/admin/gifeed-metaboxes.php:1284
+msgid "Remove Emoji Characters"
+msgstr "Retirer Emoji caractères"
+
+#: inc/admin/gifeed-metaboxes.php:1285
+msgid ""
+"If enabled, this plugin will remove all Emoji characters to make your image "
+"Alt and Title more SEO friendly."
+msgstr ""
+"Si elle est activée, ce plugin va supprimer tous les caractères Emoji pour "
+"rendre votre image Alt et titre plus SEO friendly."
+
+#: inc/admin/gifeed-metaboxes.php:1295
+msgid "Custom CSS & JS"
+msgstr "Personnaliser le CSS/JS"
+
+#: inc/admin/gifeed-metaboxes.php:1303
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: inc/admin/gifeed-metaboxes.php:1304
+msgid ""
+"Want to add any custom CSS code? Put in here, and the rest is taken care of. "
+"This overrides the default stylesheets.<br /><br />For example: body {\n"
+"    background-color: #E6E6E6;\n"
+"}"
+msgstr ""
+"Voulez-vous ajouter un code CSS personnalisé? Mettez ici, et le reste est "
+"pris en charge. Ceci remplace les feuilles de style par défaut. <br /><br /> "
+"Par exemple: body {\n"
+"background-color: # e6e6e6;\n"
+" }"
+
+#: inc/admin/gifeed-metaboxes.php:1317
+msgid "Custom JS"
+msgstr "Personnaliser le JS"
+
+#: inc/admin/gifeed-metaboxes.php:1318
+msgid ""
+"Want to add any custom JS code? Put in here, and the rest is taken care of."
+"<br /><br />For example: alert('Hello World!');"
+msgstr ""
+"Voulez-vous ajouter un code JS personnalisé? Mettez ici, et le reste est "
+"pris en charge. <br /><br /> Par exemple: alert('Hello World!');"
+
+#: inc/admin/gifeed-metaboxes.php:1329 inc/admin/gifeed-metaboxes.php:1337
+msgid "Custom Template"
+msgstr "Modèle personnalisé"
+
+#: inc/admin/gifeed-metaboxes.php:1338
+msgid ""
+"You can totally 100% modify the look of your feeds with your own custom "
+"template. Make sure to use template tags provided to get feeds metadata."
+msgstr ""
+"Vous pouvez tout à fait 100 % modifier l’apparence de vos flux avec votre "
+"propre modèle personnalisé. Assurez-vous d’utiliser des balises de template "
+"fournis pour obtenir les métadonnées du flux."
+
+#: inc/admin/gifeed-settings.php:34 inc/admin/pages/gifeed-docs-page.php:14
+#: inc/admin/pages/gifeed-freeplugins.php:42
+#: inc/admin/pages/gifeed-premiumplugins.php:30
+#: inc/admin/pages/gifeed-pricing.php:34
+#, php-format
+msgid "Welcome to %s"
+msgstr "Bienvenue à %s"
+
+#: inc/admin/gifeed-settings.php:35 inc/admin/pages/gifeed-docs-page.php:15
+#: inc/admin/pages/gifeed-freeplugins.php:43
+#: inc/admin/pages/gifeed-premiumplugins.php:31
+#: inc/admin/pages/gifeed-pricing.php:35
+#, php-format
+msgid ""
+"Thank you for installing this plugin. %s is ready to make your Instagram "
+"media more stunning and more elegant!"
+msgstr ""
+"Merci d avoir installé ce plugin. %s est prêt à faire vos médias Instagram "
+"plus étonnante et plus élégant!"
+
+#: inc/admin/gifeed-settings.php:39
+msgid ""
+"You need an Access Token from Instagram in order to be able to display "
+"Instagram media ( images or videos ). Simply click the red button below, log "
+"into Instagram and hit Authorize button."
+msgstr ""
+"Vous avez besoin d'un jeton d'accès provenant d'Instagram afin d'être en "
+"mesure d'afficher les médias Instagram (images ou vidéos). Il suffit de "
+"cliquer sur le bouton rouge ci-dessous, connectez-vous à Instagram et "
+"cliquez sur le bouton Autoriser."
+
+#: inc/admin/gifeed-settings.php:52
+msgid "Generate Access Token"
+msgstr "Générer un jeton d'accès"
+
+#: inc/admin/gifeed-settings.php:58
+msgid "Access Token"
+msgstr "Access Token"
+
+#: inc/admin/gifeed-settings.php:67
+msgid "User ID"
+msgstr "ID d'utilisateur"
+
+#: inc/admin/gifeed-settings.php:88
+msgid "Settings saved."
+msgstr "Paramètres sauvegardés."
+
+#: inc/admin/gifeed-settings.php:99
+msgid "General Settings"
+msgstr "﻿Parametres généraux"
+
+#: inc/admin/gifeed-settings.php:102
+msgid "Plugin Auto Update"
+msgstr "Plugin Mise à jour automatique"
+
+#: inc/admin/gifeed-settings.php:103
+msgid ""
+"We recommend you to enable this option to get the latest features and other "
+"important updates of this plugin."
+msgstr ""
+"Nous vous recommandons d'activer cette option pour obtenir les dernières "
+"fonctionnalités et autres mises à jour importantes de ce plugin."
+
+#: inc/admin/gifeed-settings.php:107
+msgid "Enable"
+msgstr "Activer"
+
+#: inc/admin/gifeed-settings.php:108
+msgid "Disable"
+msgstr "Désactiver"
+
+#: inc/admin/pages/gifeed-docs-page.php:19
+msgid ""
+"There are no complicated instructions because this plugin designed to make "
+"all easy. Please watch the following video and we believe that you will "
+"easily to understand it just in minutes :"
+msgstr ""
+"Il n'y a pas d'instructions compliquées parce que ce plugin conçu pour faire "
+"tout facile. S'il vous plaît voir la vidéo ci-dessous et nous pensons que "
+"vous pourrez facilement le comprendre juste en minutes:"
+
+#: inc/admin/pages/gifeed-freeplugins.php:47
+msgid ""
+"Several plugins below is free and you can install it and hopefully useful. "
+"Enjoy it!"
+msgstr ""
+"Plusieurs plugins ci-dessous est libre et vous pouvez l'installer et nous "
+"espérons utiles. Profitez-en!"
+
+#: inc/admin/pages/gifeed-freeplugins.php:176
+#, php-format
+msgid "By %s"
+msgstr "Par %s"
+
+#: inc/admin/pages/gifeed-freeplugins.php:188
+#, php-format
+msgid "Install %s now"
+msgstr "Installer %s maintenant"
+
+#: inc/admin/pages/gifeed-freeplugins.php:188
+msgid "Install Now"
+msgstr "Installer Maintenant"
+
+#: inc/admin/pages/gifeed-freeplugins.php:195
+#, php-format
+msgid "Update %s now"
+msgstr "Mise à jour %s maintenant"
+
+#: inc/admin/pages/gifeed-freeplugins.php:195
+msgid "Update Now"
+msgstr "Mettre à jour maintenant"
+
+#: inc/admin/pages/gifeed-freeplugins.php:201
+msgid "This plugin is already installed and is up to date"
+msgstr "Ce plugin est déjà installé et à jour"
+
+#: inc/admin/pages/gifeed-freeplugins.php:201
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Installed"
+
+#: inc/admin/pages/gifeed-freeplugins.php:210
+#, php-format
+msgid "More information about %s"
+msgstr "Des informations supplémentaires sur les %s"
+
+#: inc/admin/pages/gifeed-freeplugins.php:210
+msgid "More Details"
+msgstr "Plus de détails"
+
+#: inc/admin/pages/gifeed-freeplugins.php:283
+msgid "Last Updated:"
+msgstr "Dernière mise à jour:"
+
+#: inc/admin/pages/gifeed-freeplugins.php:284
+#, php-format
+msgid "%s ago"
+msgstr "%s ago"
+
+#: inc/admin/pages/gifeed-freeplugins.php:288
+#, php-format
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] "%s download"
+msgstr[1] "%s downloads"
+
+#: inc/admin/pages/gifeed-freeplugins.php:293
+msgid "Untested with your version of WordPress"
+msgstr "Non testé avec votre version de WordPress"
+
+#: inc/admin/pages/gifeed-freeplugins.php:295
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "<strong>Incompatible</strong> avec votre version de WordPress"
+
+#: inc/admin/pages/gifeed-freeplugins.php:297
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "<strong>Compatible</strong> avec votre version de WordPress"
+
+#: inc/admin/pages/gifeed-premiumplugins.php:15
+msgid ""
+"There was an error retrieving the list from the server. Please try again "
+"later."
+msgstr ""
+"Il y avait une erreur de récupération de la liste des extensions à partir du "
+"serveur. Veuillez réessayer ultérieurement."
+
+#: inc/admin/pages/gifeed-premiumplugins.php:35
+msgid ""
+"Several plugins below are a premium plugins that will help you to take your "
+"website to the next level. Get it Now !"
+msgstr ""
+"Plusieurs plugins ci-dessous sont des plugins premium qui vous aideront à "
+"prendre votre site Web au prochain niveau. Get it Now!"
+
+#: inc/admin/pages/gifeed-pricing.php:39
+msgid "You can select plan to suit your needs here."
+msgstr "Vous pouvez sélectionner le plan en fonction de vos besoins ici."
+
+#: inc/admin/vc/vc-shortcode.php:21
+msgid "Instagram Feed Lite"
+msgstr "Instagram Feed Lite"
+
+#: inc/admin/vc/vc-shortcode.php:25
+msgid "Display Instagram media in post / page"
+msgstr "Afficher le média d’Instagram en post / page"
+
+#: inc/admin/vc/vc-shortcode.php:31
+msgid "Feed ID"
+msgstr "Feed ID"
+
+#: inc/admin/vc/vc-shortcode.php:34
+msgid "Select your current feed(s) from dropdown above."
+msgstr "Sélectionnez votre flux actuel dans liste déroulante ci-dessus."
+
+#: inc/frontend/gifeed-template.php:19
+msgid "No Instagram Id(s) or Hashtag(s) found!"
+msgstr "Non Instagram Id (s) ou Hashtag (s) trouvé!"
+
+#. Plugin Name of the plugin/theme
+msgid "Feed Instagram Lite"
+msgstr "Feed Instagram Lite"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.ghozylab.com/plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Instagram Feed Lite - Display your Instagram feed anywhere you like. You can "
+"quickly customize your Instagram feed to look exactly the way you want them "
+"to look."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "GhozyLab, Inc."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://demo.ghozylab.com/plugins/instagram-feed-plugin/"
+msgstr ""
+
+#~ msgid "Feed columns count yo can set. Default : 3"
+#~ msgstr "Colonnes comptent yo peut définir. Par défaut: 3"
+
+#~ msgid "Image ALT Length"
+#~ msgstr "Image ALT Longueur"
+
+#~ msgid "You can set the length of your image alt text here."
+#~ msgstr "Vous pouvez définir la longueur de votre image alt texte ici."
+
+#~ msgid "Image Title Length"
+#~ msgstr "Titre de l'image Longueur"
+
+#~ msgid "You can set the length of your image title text here."
+#~ msgstr "Vous pouvez définir la longueur de votre image texte du titre ici."
+
+#~ msgid "Comparison"
+#~ msgstr "Comparaison"
+
+#~ msgid "Save Changes"
+#~ msgstr "Enregistrer les modifications"

@@ -1,0 +1,209 @@
+.gifeed-badge {
+	padding-top: 150px;
+	height: 128px;
+	width: 128px;
+	color: #989898;
+	font-weight: normal;
+	font-style:italic;
+	font-size: 13px;
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+	margin: 0 -5px;
+	background: url('../img/plugin-logo.png') no-repeat;
+}
+
+.about-wrap .gifeed-badge {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.gifeed-welcome-screenshots {
+	-webkit-box-shadow: -3px 1px 15px -4px rgba(0,0,0,0.75);
+	-moz-box-shadow: -3px 1px 15px -4px rgba(0,0,0,0.75);
+	box-shadow: -3px 1px 15px -4px rgba(0,0,0,0.75);
+	float: right;
+	margin: 20px 0 30px 30px !important;
+}
+
+.gifeed-class .feature-section p {
+	max-width: 100% !important;	
+}
+
+.about-wrap .feature-section {
+	margin-top: 50px;
+}
+		
+.about-wrap .feature-section h4 {
+	padding-bottom: 10px;
+	display:inline-block;
+	border-bottom: 1px dashed #CCC;
+}
+		
+.about-wrap .feature-section .faq-question {
+	border-bottom: 1px solid #CCC;
+	font-weight:bold;
+	color:#666;
+}
+		
+.about-wrap .feature-section .faq-answer {
+	font-style: normal;
+	font-weight: normal;
+	color:#666;
+	font-size: 0.9em;
+}
+		
+.gifeed-class h1 {
+	font-size: 2.5em;
+	font-weight: 600;
+	letter-spacing: 1.1px;
+}
+		
+.gifeed-class .about-text {
+	font-size: 17px;
+}
+		
+#gifeed_config {
+	float: left;
+	width: 100%;
+	clear: both;
+	margin: 10px 0 10px 0;
+}
+		
+.gifeed_generate_token_button {
+    display: block;
+    float: left;
+    clear: both;
+    padding: 0 21px 0 160px;
+    height: 47px;
+    line-height: 47px;
+    background: #D43834 url('../img/instagram-logo.png') no-repeat 16px 11px;
+    color: #e9eef3;
+    text-decoration: none;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+			
+.gifeed_generate_token_button:hover{
+	background-color: #E7423E;
+	color: #fff;
+	-moz-transition: all 0.1s ease-in-out;
+  	-webkit-transition: all 0.1s ease-in-out;
+  	-o-transition: all 0.1s ease-in-out;
+  	transition: all 0.1s ease-in-out;
+}
+		
+.gifeed_credential_container {
+	background: #fff;
+	border: 1px solid #ddd;
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	float:left;
+	clear: both;
+	padding:15px;
+	margin-top: 20px;
+}
+		
+#gifeed-submit-btn .submit {
+	display:inline-block;
+}
+		
+.gifeed_credential_container th {
+	width:110px !important;
+	font-size:13px;
+	padding-bottom: 0px !important;
+	padding-top: 22px !important;
+}
+		
+.gifeed_credential_container td {
+	padding-bottom:5px !important;
+}
+
+#gif_instagram_opt_token, #gif_instagram_opt_uid {
+	border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+}
+
+/* General Settings Section */
+
+.opt-desc {
+	color: rgb(137, 127, 127);
+}
+
+.gifeed-opt-cont {
+	margin: 10px 0px;
+	padding-bottom: 15px;
+	/*border-bottom: 1px dashed rgb(185, 185, 185);*/
+}
+
+
+/* Loading */
+#overlay {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background: #000;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+#loading {
+    width: 50px;
+    height: 57px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -28px 0 0 -25px;
+	background: url(../img/metabox/ajax-loader.gif) center no-repeat;
+}
+
+/* Update Notify */
+
+.update_notify {
+	display:inline-block;
+	margin-left:30px;
+	vertical-align: bottom;
+	width:16px;
+	height:16px;
+}
+
+.notifyupdated {
+	background: url(../img/settings/valid.png) center no-repeat;
+	
+}
+
+.notifyerror {
+	background: url(../img/settings/invalid.png) center no-repeat;
+	
+}
+
+.notifyjs-bootstrap-warn {
+	height: 10px !important;
+	vertical-align: middle !important;
+	padding-top: 17px !important;
+	background-position: 1px !important;
+}
+
+.update_notify_gfont {
+	margin-left:10px;
+}
+
+/* Fonts Section */
+
+.blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin-bottom: 2.5em;
+  padding: 0.5em 10px;
+  font-size: 13px;
+}
